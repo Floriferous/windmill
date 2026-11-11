@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.867.1](https://github.com/windmill-labs/windmill/compare/v1.867.0...v1.867.1) (2026-11-11)
+
+
+### Bug Fixes
+
+* bump cli bundled minimatch, yaml and fast-uri past advisories ([#12337](https://github.com/windmill-labs/windmill/issues/12337)) ([f7f2eee](https://github.com/windmill-labs/windmill/commit/f7f2eeedfd16a64a462a58b51b81119eb102735c))
+
 ## [1.867.0](https://github.com/windmill-labs/windmill/compare/v1.866.0...v1.867.0) (2026-11-10)
 
 
